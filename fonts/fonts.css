@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'gothamrounded-bold-webfont';
+    src: url('rounded/bold/gothamrounded-bold-webfont.eot');
+    src: url('rounded/bold/gothamrounded-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('rounded/bold/gothamrounded-bold-webfont.woff') format('woff'),
+         url('rounded/bold/gothamrounded-bold-webfont.ttf') format('truetype'),
+         url('rounded/bold/gothamrounded-bold-webfont.svg#FontName') format('svg');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'gothamrounded-book-webfont';
+    src: url('rounded/book/gothamrounded-book-webfont.eot');
+    src: url('rounded/book/gothamrounded-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('rounded/book/gothamrounded-book-webfont.woff') format('woff'),
+         url('rounded/book/gothamrounded-book-webfont.ttf') format('truetype'),
+         url('rounded/book/gothamrounded-book-webfont.svg#FontName') format('svg');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'gothamrounded-light-webfont';
+    src: url('rounded/light/gothamrounded-light-webfont.eot');
+    src: url('rounded/light/gothamrounded-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('rounded/light/gothamrounded-light-webfont.woff') format('woff'),
+         url('rounded/light/gothamrounded-light-webfont.ttf') format('truetype'),
+         url('rounded/light/gothamrounded-light-webfont.svg#FontName') format('svg');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'gothamrounded-medium-webfont';
+    src: url('rounded/medium/gothamrounded-medium-webfont.eot');
+    src: url('rounded/medium/gothamrounded-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('rounded/medium/gothamrounded-medium-webfont.woff') format('woff'),
+         url('rounded/medium/gothamrounded-medium-webfont.ttf') format('truetype'),
+         url('rounded/medium/gothamrounded-medium-webfont.svg#FontName') format('svg');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'gothamrounded-mediumitalic-webfont';
+    src: url('rounded/mediumitalick/gothamrounded-mediumitalic-webfont.eot');
+    src: url('rounded/mediumitalick/gothamrounded-mediumitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('rounded/mediumitalick/gothamrounded-mediumitalic-webfont.woff') format('woff'),
+         url('rounded/mediumitalick/gothamrounded-mediumitalic-webfont.ttf') format('truetype'),
+         url('rounded/mediumitalick/gothamrounded-mediumitalic-webfont.svg#FontName') format('svg');
+    font-style: normal;
+    font-weight: normal;
+}

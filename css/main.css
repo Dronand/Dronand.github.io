@@ -1,0 +1,435 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#home {
+    background: url(../img/bg_home.png) no-repeat;
+    height: 745px;
+    width: 1280px;
+}
+
+#home #top_menu {
+    font-family: 'gothamrounded-bold-webfont';
+    font-size: 16px;
+    letter-spacing: 0.15em;
+    list-style: none;
+    text-transform: uppercase;
+}
+
+#home #top_menu li {
+    float: left;
+    text-decoration: none;
+}
+
+#home #top_menu li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#home #top_menu li:first-child, #home #top_menu li:nth-child(2), #home #top_menu li:nth-child(4), #home #top_menu li:nth-child(5) {
+    padding-top: 68px;
+}
+
+#home #top_menu li:first-child {
+    margin: 0 61px 0 272px;
+}
+
+#home #top_menu li:nth-child(2) {
+    margin: 0 99px 0 0;
+}
+
+#home #top_menu li:nth-child(3) {
+    padding-top: 40px;
+}
+
+#home #top_menu li:nth-child(4) {
+    margin: 0 74px 0 97px;
+}
+
+#home #logo {
+    color: #fff;
+    font-family: 'gothamrounded-bold-webfont';
+    font-size: 36px;
+    font-weight: bold;
+    letter-spacing: 0.15em;
+    padding: 329px 0 0 389px;
+    text-transform: uppercase;
+}
+
+#home #logo span {
+    margin: 6px;
+}
+
+#home #logo_1{
+    color: #fff;
+    font-family: 'gothamrounded-medium-webfont';
+    font-size: 16px;
+    margin: 3px 0 0 474px;
+    letter-spacing: 0.15em;
+}
+
+.button {
+    color: #fff;
+    font-family: 'gothamrounded-bold-webfont';
+    font-size: 12px;
+    background-color: #16a085;
+    border: 1px solid #16a085;
+    border-radius: 3px;
+    letter-spacing: 0.15em;
+    margin-left: 557px;
+    padding: 16px 29px 14px;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+    top: 38px;
+}
+
+#home #social {
+    margin: 275px 0 0 591px;
+}
+
+#home #social li {
+    float: left;
+    list-style: none;
+    text-decoration: none;
+}
+
+#home #social li:nth-child(2) {
+    margin: 0 16px 0 16px;
+}
+
+#second_ekran {
+    background: url(../img/bg_second.png) no-repeat;
+    height: 492px;
+    width: 1280px;
+}
+
+#second_ekran #title_1 {
+    color: #16a085;
+    font-family: 'gothamrounded-bold-webfont';
+    font-size: 18px;
+    letter-spacing: 0.15em;
+    line-height: 23px;
+    padding: 106px 0 0 129px;
+    text-transform: uppercase;
+}
+
+#second_ekran #text_1 {
+    color: #373737;
+    font-family: 'gothamrounded-book-webfont';
+    font-size: 12px;
+    letter-spacing: 0.15em;
+    line-height: 24px;
+    margin: 37px 0 0 128px;
+}
+
+#text_1 span, #text_2 span {
+    font-weight: bold;
+    line-height: 10px;
+}
+
+#second_ekran .button {
+    background-color: #16a085;
+    margin-left: 129px;
+    padding: 18px 42px 14px;
+    top: 58px;
+}
+
+#third_ekran {
+    background: url(../img/bg_third.png) no-repeat;
+    height: 558px;
+    width: 1280px;
+}
+
+#third_ekran #title_2 {
+    color: #16a085;
+    font-family: 'gothamrounded-bold-webfont';
+    font-size: 18px;
+    letter-spacing: 0.15em;
+    padding: 139px 0 0 765px;
+    text-transform: uppercase;
+}
+
+#third_ekran #text_2 {
+    color: #373737;
+    font-family: 'gothamrounded-book-webfont';
+    font-size: 12px;
+    letter-spacing: 0.15em;
+    line-height: 22px;
+    margin: 32px 0 0 769px;
+}
+
+#third_ekran .button {
+    background-color: #16a085;
+    border-radius: 0;
+    margin-left: 767px;
+    padding: 16px 47px 16px 43px;
+    top: 52px;
+}
+
+#third_ekran #number {
+    color: #373737;
+    font-family: 'gothamrounded-bold-webfont';
+    font-size: 12px;
+    letter-spacing: 0.15em;
+    margin: 111px 0 0 767px;
+}
+
+#third_ekran ul {
+    list-style: none;
+    margin: 5px 0 0 767px;
+}
+
+#third_ekran ul li {
+    float: left;
+}
+
+#third_ekran ul li:first-child {
+    margin-right: 21px;
+}
+
+#fourth_ekran {
+    background-color: #f5f6f7;
+    border-bottom: 1px solid #fff;
+    height: 483px;
+    width: 1280px;
+}
+
+#fourth_ekran #cliker {
+    list-style: none;
+    padding: 95px 0 0 1113px;
+}
+
+#fourth_ekran #cliker li {
+    float: left;
+}
+
+#fourth_ekran #cliker li:first-child {
+    margin-right: 16px;
+}
+
+#fourth_ekran #content {
+    list-style: none;
+}
+
+#fourth_ekran #content li {
+    float: left;
+}
+
+#content #picture_1 {
+    margin: 49px 0 0 187px;
+}
+
+#content #title_3 {
+    color: #373737;
+    font-family: 'gothamrounded-bold-webfont';
+    font-size: 16px;
+    letter-spacing: 0.15em;
+    margin: 22px 0 0 128px;
+    text-transform: uppercase;
+}
+
+#content #text_3 {
+    color: #373737;
+    font-family: 'gothamrounded-medium-webfont';
+    font-size: 10px;
+    letter-spacing: 0.15em;
+    line-height: 12px;
+    margin: 18px 11px 12px 141px;
+    text-align: center;
+}
+
+#content li:nth-child(2) {
+    margin: 5px 24px 0 80px;
+}
+
+#content li:nth-child(3) {
+    margin-top: 5px;
+}
+
+#fifth_ekran {
+    background: url(../img/bg_fifth.png) no-repeat;
+    height: 789px;
+    width: 1280px;
+}
+
+#fifth_ekran p {
+    color: #fff;
+    display: block;
+    font-family: 'gothamrounded-bold-webfont';
+    font-size: 24px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    padding: 343px 11px 12px 405px;
+}
+
+#fifth_ekran input {
+    background-color: #fff;
+    border: none;
+    border-radius: 2px 0 0 2px;
+    box-shadow: none;
+    color: #373737;
+    font-family: "gothamrounded-medium-webfont";
+    font-size: 16px;
+    height: 58px;
+    letter-spacing: 0.15em;
+    margin: 15px 0 0 467px;
+    padding: 1px 0 1px 22px;
+    text-transform: uppercase;
+    width: 258px;
+}
+
+#fifth_ekran form a {
+    background-color: #16a085;
+    border-radius: 0 2px 2px 0;
+    height: 58px;
+    margin-left: -4px;
+    padding: 21px 18px 20px 21px;
+    width: 60px;
+}
+
+#fifth_ekran form a img {
+    margin: 2px;
+    position: relative;
+    top: 6px;
+}
+
+#sixth_ekran {
+    background-color: #f5f6f7;
+    height: 396px;
+    width: 1280px;
+}
+
+#sixth_ekran #title_4 {
+    color: #373737;
+    font-family: 'gothamrounded-bold-webfont';
+    font-size: 20px;
+    letter-spacing: 0.15em;
+    padding: 84px 0 0 546px;
+    text-transform: uppercase;
+}
+
+#sixth_ekran #text_4 {
+    color: #373737;
+    font-family: "gothamrounded-medium-webfont";
+    font-size: 12px;
+    letter-spacing: 0.16em;
+    line-height: 22px;
+    margin: 4px 0 0 2px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#sixth_ekran #text_4 #tt_1 {
+    margin: 0px 1px;
+}
+
+#sixth_ekran #text_4 #tt_2 {
+    position: relative;
+    left: -2px;
+}
+
+#sixth_ekran #text_4 #tt_3 {
+    position: relative;
+    left: 1px;
+}
+
+#sixth_ekran a {
+    background-color: #1abc9c;
+    border-top: 1px solid #1abc9c;
+    border-bottom: 1px solid #1abc9c;
+    border-left: 1px solid #1abc9c;
+    color: #fff;
+    font-family: 'gothamrounded-bold-webfont';
+    font-size: 16px;
+    letter-spacing: 0.15em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#sixth_ekran #apple {
+    border-radius: 4px;
+    border-right: 56px solid #16a085;
+    margin-left: 330px;
+    padding: 18px 74px 14px 23px;
+    position: relative;
+    top: 49px;
+}
+
+#sixth_ekran #appl {
+    left: -43px;
+    position: relative;
+    top: 53px;
+}
+
+#sixth_ekran #android {
+    border-radius: 4px;
+    border-right: 56px solid #16a085;
+    font-size: 18px;
+    margin-left: -3px;
+    padding: 15px 68px 13px 28px;
+    position: relative;
+    top: 49px;
+}
+
+#sixth_ekran #andr {
+    left: -44px;
+    position: relative;
+    top: 56px;
+}
+
+#footer {
+    background-color: #fff;
+    color: #373737;
+    font-family: 'gothamrounded-bold-webfont';
+    font-size: 14px;
+    height: 131px;
+    letter-spacing: 0.15em;
+}
+
+#footer ul {
+    list-style: none;
+    padding: 42px 0 0 127px;
+    text-transform: uppercase;
+}
+
+#footer a {
+    color: #373737;
+    text-decoration: none;
+}
+
+#footer ul li {
+    float: left;
+}
+
+#footer ul li:nth-child(2) {
+    margin-left: 5px;
+}
+
+#footer ul li:nth-child(3) {
+    margin-left: 7px;
+}
+
+#footer ul li:nth-child(4) {
+    margin-left: 5px;
+}
+
+#footer ul li:nth-child(5) {
+    margin-left: 7px;
+}
+
+#footer p {
+    margin: 17px 0 0 128px;
+}
+
+#footer img {
+    position: relative;
+    left: 1098px;
+    top: -59px;
+}
